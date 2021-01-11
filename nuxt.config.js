@@ -38,7 +38,7 @@ export default {
   ],
 
   colorMode: {
-    preference: 'system', // default value of $colorMode.preference
+    preference: 'light', // default value of $colorMode.preference
     fallback: 'dark', // fallback value if not system preference found
     classSuffix: '', // Tailwind
   },

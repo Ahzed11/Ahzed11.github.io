@@ -40,6 +40,11 @@ import CardProjects from "~/components/Card/CardProjects.vue";
 import CardSkills from "~/components/Card/CardSkills.vue";
 import Pill from "~/components/Pill/Pill.vue";
 export default {
+  head() {
+    return {
+      title: "Alexandre Zenon",
+    };
+  },
   components: {
     CardAboutMe,
     CardLanguages,

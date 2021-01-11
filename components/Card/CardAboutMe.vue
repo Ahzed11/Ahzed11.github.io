@@ -1,6 +1,6 @@
 <template>
   <card title="About" class="text-jusitfy">
-    <div class="p-4">
+    <div class="p-4 dark:text-white">
       <p class="font-semibold">Hello, welcome to my personnal Page!</p>
       <br />
       <p>

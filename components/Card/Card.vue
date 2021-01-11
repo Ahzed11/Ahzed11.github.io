@@ -1,5 +1,7 @@
 <template>
-  <article class="rounded-xl bg-white shadow-md dark:bg-gray-900 flex flex-col">
+  <article
+    class="rounded-xl bg-white shadow-md dark:bg-gray-900 flex flex-col transform hover:scale-105 transition duration-300"
+  >
     <h1 class="text-2xl font-semibold pt-4 pb-1 px-4 dark:text-white">
       {{ title }}
     </h1>

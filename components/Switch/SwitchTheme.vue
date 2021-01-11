@@ -20,6 +20,7 @@ export default {
     };
   },
   mounted() {
+    console.log(this.$colorMode.value);
     if (this.$colorMode.value === "dark") {
       this.toggleActive = true;
     }
