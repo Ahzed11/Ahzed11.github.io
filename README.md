@@ -3,7 +3,12 @@
 ## Content
 Some infos about me, some links to my projets and networks. That's pretty much it...
 
-## Build Setup
+# Page Github.io personnelle
+
+## Contenu
+Quelques informations à propos de moi, des liens vers mes projets et mes réseaux. C'est à peu près tout...
+
+# Build Setup
 
 ```bash
 # install dependencies
@@ -21,3 +26,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Pour des explications plus détaillées sur comment les choses fonctionnent, allez voir [Nuxt.js docs](https://nuxtjs.org).
