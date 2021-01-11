@@ -1,4 +1,4 @@
-# Ahzed11's personal page
+# Personal Github.io page
 
 ## Content
 Some infos about me, some links to my projets and networks. That's pretty much it...
