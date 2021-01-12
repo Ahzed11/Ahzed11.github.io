@@ -2,13 +2,13 @@
   <card title="Projects">
     <list class="p-4">
       <list-element title="Communoté" link="https://www.communote.be/">
-        Note sharing website for college students
+        Note sharing website for college students.
       </list-element>
       <list-element
         title="Dick Guigui"
         link="https://ahzed.itch.io/dick-guigui"
       >
-        A small game inspired by hotline miami made on godot for a Game Jam
+        A small game inspired by hotline miami made on godot for a Game Jam.
       </list-element>
       <list-element title="APPSINF" link="https://github.com/Ahzed11/APPSINF">
         A website where you can post articles written in Markdown. It was made
