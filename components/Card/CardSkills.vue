@@ -1,12 +1,16 @@
 <template>
   <card title="Skills">
     <list class="p-4">
-      <list-element title="PHP" description="Symfony" />
-      <list-element title="Javascript" description="Vue, Nuxt, Express" />
-      <list-element
-        title="Python"
-        description="Uni's exam, some Flask, some Discord.py"
-      />
+      <list-element title="PHP">Symfony</list-element>
+      <list-element title="Javascript">Vue, Nuxt, Express</list-element>
+      <list-element title="Python">
+        <a
+          class="hover:text-purple-800 dark:hover:text-green-300"
+          href="https://uclouvain.be/en-cours-2020-linfo1101"
+          target="_blank"
+          >Uni's course</a
+        >, some Flask, some Discord.py
+      </list-element>
     </list>
   </card>
 </template>

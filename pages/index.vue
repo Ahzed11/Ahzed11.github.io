@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto md:w-2/5 sm:w-auto pt-8 pb-16">
+  <div class="mx-auto w-auto sm:w-3/5 md:w-2/5 lg:w-3/5 xl:w-2/5 pt-8 pb-16">
     <img
       class="mx-auto rounded-full w-32 h-32 shadow-lg"
       src="/images/me.png"
@@ -18,7 +18,7 @@
       <!--<pill body="Want to offer me a coffee?" bgClass="bg-green-300" />-->
     </div>
 
-    <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-4 mt-6">
+    <div class="grid lg:grid-cols-2 sm:grid-cols-1 gap-4 mt-6">
       <card-about-me />
       <card-contact />
 
@@ -43,6 +43,7 @@ export default {
   head() {
     return {
       title: "Alexandre Zenon",
+      description: "A personal website for Ahzed11 alias Alexandre Zenon",
     };
   },
   components: {

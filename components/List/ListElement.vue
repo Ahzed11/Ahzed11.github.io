@@ -11,9 +11,7 @@
       <h2 class="text-lg font-semibold">
         {{ title }}
       </h2>
-      <p class="font-light text-justify">
-        {{ description }}
-      </p>
+      <slot class="font-light text-justify"> </slot>
     </component>
   </li>
 </template>
@@ -24,10 +22,6 @@ export default {
   props: {
     title: {
       required: true,
-      type: String,
-    },
-    description: {
-      required: false,
       type: String,
     },
     link: {

@@ -4,18 +4,18 @@
       <p class="font-semibold">Hello, welcome to my personnal Page!</p>
       <br />
       <p>
-        My name is Alexandre Zenon. I am a belgian computer sciences student.
+        My name is Alexandre Zenon. I am a Belgian computer science student.
       </p>
       <br />
       <p>
-        During my free time I quite like programming frontends and backends for
+        During my free time I enjoy programming frontends and backends for
         various projects and ideas. I also like inline skating and inline
         hockey.
       </p>
       <br />
       <p>
-        I lived for a year in Kawasaki Japan. It was one of the best experiences
-        I have had in my life.
+        I lived for a year in Kawasaki, Japan. It was one of the best
+        experiences I have had in my life.
       </p>
     </div>
   </card>
