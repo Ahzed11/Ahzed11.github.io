@@ -8,11 +8,8 @@
       Alexandre Zenon
     </h1>
     <h2 class="font-light text-center dark:text-white">
-      Killing my time developping websites
-    </h2>
-    <h3 class="font-light text-center dark:text-white">
       CS Student at UCLouvain
-    </h3>
+    </h2>
     <div class="flex flex-row justify-center mt-4">
       <pill body="Contact Me" bgClass="bg-purple-800" has-text-white />
       <!--<pill body="Want to offer me a coffee?" bgClass="bg-green-300" />-->
