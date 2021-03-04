@@ -11,6 +11,14 @@
           >Uni's course</a
         >, some Flask, some Discord.py
       </list-element>
+      <list-element title="Java">
+        <a
+          class="hover:text-purple-800 dark:hover:text-green-300"
+          href="https://uclouvain.be/en-cours-2020-lepl1402"
+          target="_blank"
+          >Uni's course</a
+        >
+      </list-element>
     </list>
   </card>
 </template>
