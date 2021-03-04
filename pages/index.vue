@@ -11,7 +11,7 @@
       CS Student at UCLouvain
     </h2>
     <div class="flex flex-row justify-center mt-4">
-      <pill body="Contact Me" bgClass="bg-purple-800" has-text-white />
+      <pill body="Contact Me" bgClass="bg-purple-800" has-text-white path="mailto:Ahzed11@protonmail.com" />
       <!--<pill body="Want to offer me a coffee?" bgClass="bg-green-300" />-->
     </div>
 

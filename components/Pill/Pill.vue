@@ -1,10 +1,11 @@
 <template>
-  <span
+  <a
     class="rounded-full font-light py-1 px-4 shadow-md mr-2 transform hover:scale-105 transition duration-300 text-center"
     :class="`${bgClass} ${!!hasTextWhite ? 'text-white' : ''}`"
+    :href="path"
   >
     {{ body }}
-  </span>
+  </a>
 </template>
 
 <script>
@@ -18,6 +19,10 @@ export default {
     bgClass: {
       type: String,
       required: true,
+    },
+    path: {
+      type: String,
+      required: false,
     },
     hasTextWhite: {
       type: Boolean,
