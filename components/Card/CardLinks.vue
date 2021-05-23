@@ -22,8 +22,14 @@
       >
         <icon-itchio />
       </a>
-      <a class="rounded-xl shadow-md" target="_blank"> <icon-youtube /> </a
-      ><!--
+      <a
+        class="rounded-xl shadow-md"
+        href="https://www.youtube.com/channel/UCm0Tstopf2nxISi6bQ-WAiw"
+        target="_blank"
+      >
+        <icon-youtube />
+      </a>
+      <!--
       <a class="rounded-xl shadow-md" target="_blank">
         <icon-instagram />
       </a>-->
