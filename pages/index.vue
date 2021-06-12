@@ -12,7 +12,7 @@
     </h2>
     <div class="flex flex-row justify-center mt-4">
       <pill body="Contact Me" bgClass="bg-purple-800" has-text-white path="mailto:Ahzed11@protonmail.com" />
-      <!--<pill body="Want to offer me a coffee?" bgClass="bg-green-300" />-->
+      <pill body="Want to offer me a coffee?" bgClass="bg-green-300" path="https://www.buymeacoffee.com/ahzed11" />
     </div>
 
     <div class="grid lg:grid-cols-2 sm:grid-cols-1 gap-4 mt-6">
